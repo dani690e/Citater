@@ -8,3 +8,4 @@ This project is a simple Quote site.
 
 Delete quote<br>
 Create quote<br>
+Change input value
